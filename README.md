@@ -1,22 +1,17 @@
 # Facebook_Sentiment_Analysis
-Imagine yourself in the role of an analyst who was recently hired by a business intelligence firm (or by an internal analytics group of an investment group). You will perform an analytics task and provide a report outlining the approach you have taken.
+With the growing popularity of digital marketing and competition among brands, it is essential for companies to gain fair understanding of their customer’s perceptions about the brands and products, especially on social media platforms like Facebook, with huge customer base on these social media platforms there is abundant data available based on the reviews given by customers towards brands and products they frequently use or have used as trial purchase. A Sentiment Analysis can be conducted to analyse comments made by customers as a feedback to brands and products, with the help of sentiment analysis companies can identify positive and negative comments on the social media platform, resolve issues pertaining to understanding of emotional tone and can get access to real time analysis to stay updated with trends.
 
-For this specific task, you should choose the following categories:
+For this specific task, Facebook page activity tracking has been performed.
 
-Facebook page activity tracking.
+Performing analysis using Python programming language, and following questions have been answered in the document - 
 
-Once you have chosen a category, select a business intelligence objective within that category along the lines of what has been done in class. 
+1. A brief overview of the task objective you have chosen.
 
-Performing analysis using Python programming language, In completing this assignment, please submit a single pdf file that contains the following:
+2. A description of the tools you have developed, including the information about the API/dataset you have used.
 
-A brief overview of the task objective you have chosen.
+3. Main results in relation to the task objective you have chosen, with a summary of business implications of your findings.
 
-
-A description of the tools you have developed, including the information about the API/dataset you have used.
-
-Your main results in relation to the task objective you have chosen, with a summary of business implications of your findings.
-
-A complete listing of your Python source code as an appendix (if you are comfortable using Github, please include a repository link instead).
+4. A complete listing of your Python source code as an appendix (if you are comfortable using Github, please include a repository link instead).
 
 
 
